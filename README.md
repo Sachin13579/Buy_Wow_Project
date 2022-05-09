@@ -1,14 +1,5 @@
 # Wow India Clone
 
-### Project Description
-
-_To start with the Project run the following command in "Backend" folder_
-
-> > ⌘ **npm run server**
-
-> After the go to your browser and type `http://localhost:5000/home` and you are ready to run and explore our project.
-
----
 
 ### Team Members
 
@@ -27,13 +18,7 @@ _To start with the Project run the following command in "Backend" folder_
   - `HTML`
   - `CSS`
   - `JavaScript ES6`
-- #### Framework
-  - `Node.Js`
-- #### Libraries
-  - `Express`
-  - `mongoose`
-- #### Database
-  - `MongoDB`
+
 
 ---
 
